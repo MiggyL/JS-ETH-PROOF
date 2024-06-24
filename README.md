@@ -1,10 +1,13 @@
-# Project Title
+# Token Contract
 
-Simple overview of use/purpose.
+This Solidity program includes a token system that has a smart contract in the blockchain which is capable of minting and burning tokens that has public variables that saves token details and mapping to keep balances in check.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+The 'MyToken' contract implements a basic token system in which users can create new tokens to increase the total supply and burn existing tokens to decrease it. The contract includes:
+- Public variables for storing the token name, abbreviation, and total supply.
+- A mapping that stores the balance for each address.
+- Mints and burns tokens to ensure that the total supply and individual balances are adjusted correctly.
 
 ## Getting Started
 
