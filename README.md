@@ -15,6 +15,7 @@ This contract creates a token creation system where users can create new tokens 
 
 - To get started with the `MyToken` contract, you'll need to use the [Remix's Solidity IDE](https://remix.ethereum.org/).
 - Once you are on the Remix website, create a new file named `MyToken` in the `contracts` directory and it must be saved as a .sol file extension (MyToken.sol).
+- Copy and paste the `MyToken` contract code into the `MyToken.sol` file.
 ```
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.26;
@@ -45,7 +46,6 @@ contract MyToken {
     
 }
 ```
-- Copy and paste the `MyToken` contract code into the `MyToken.sol` file.
 - Compile the contract by selecting the Solidity compiler and clicking the "Compile" button.
 
 ### Deploying the Contract
