@@ -66,4 +66,4 @@ contract MyToken {
 ## Authors
 
 Miguel Lacanienta
-ex. [@MiguelLacanienta](https://www.facebook.com/miguel.lacanienta.16/)
+[@MiguelLacanienta](https://www.facebook.com/miguel.lacanienta.16/)
